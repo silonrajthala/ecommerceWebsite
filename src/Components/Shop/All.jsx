@@ -13,7 +13,7 @@ import Item from '../Item';
             <Item
               title="Sweatshirt"
               price="1000"
-              image="https://kingteeshops.com/i-feel-sorry-for-people-with-no-personality-sweatshirt"
+              image="https://assets.wordans.co.uk/files/model_specifications/2016/6/17/282835/282835_big.jpg?1733492520"
               tag="New"
             />
             <Item
@@ -51,7 +51,7 @@ import Item from '../Item';
            />
            <Item
             tag="New"
-            image="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81yIVXQY2vL._AC_UY1100_.jpg"
+            image="https://m.media-amazon.com/images/I/81yIVXQY2vL._AC_UY1100_.jpg"
             title="Scaff"
             price="400"
           />
@@ -81,7 +81,7 @@ import Item from '../Item';
           />
            <Item
             tag="New"
-            image="https://www.jonssonworkwear.com/images/thumbs/0002665_mens-long-sleeve-shirt_1024.jpeg"
+            image="https://images-cdn.ubuy.co.in/63400407ad052c2c656c7cd6-lelebear-stretch-anti-wrinkle-shirt-men.jpg"
             title="Shirt"
             price="900"
           />

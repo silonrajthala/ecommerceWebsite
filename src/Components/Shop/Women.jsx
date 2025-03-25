@@ -22,7 +22,7 @@ import Item from '../Item';
            />
             <Item
             tag="New"
-            image="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81yIVXQY2vL._AC_UY1100_.jpg"
+            image="https://m.media-amazon.com/images/I/81yIVXQY2vL._AC_UY1100_.jpg"
             title="Scaff"
             price="400"
           />

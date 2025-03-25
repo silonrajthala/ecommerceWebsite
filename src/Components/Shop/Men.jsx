@@ -45,7 +45,7 @@ function Men() {
           />
           <Item
             tag="New"
-            image="https://www.jonssonworkwear.com/images/thumbs/0002665_mens-long-sleeve-shirt_1024.jpeg"
+            image="https://images-cdn.ubuy.co.in/63400407ad052c2c656c7cd6-lelebear-stretch-anti-wrinkle-shirt-men.jpg"
             title="Shirt"
             price="900"
           />
