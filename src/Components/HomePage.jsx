@@ -65,7 +65,7 @@ class Home extends Component {
             <Item
               title="Sweatshirt"
               price="1000"
-              image="https://kingteeshops.com/i-feel-sorry-for-people-with-no-personality-sweatshirt"
+              image="https://assets.wordans.co.uk/files/model_specifications/2016/6/17/282835/282835_big.jpg?1733492520"
               tag="New"
             />
             <Item
@@ -92,6 +92,12 @@ class Home extends Component {
               image="https://img.freepik.com/premium-vector/female-fashion-dress-isolated-icon-design_25030-13126.jpg"
               tag="New"
             />
+            <Item
+              title="Down Jacket"
+              price="4500"
+              image="https://makaluetraders.com/wp-content/uploads/2022/10/drak-gray-side-3-1024x1024.jpg"
+              tag="New"
+            />
             <Item title='Jordan'
             price='5000'
             image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvc9DM0mzlA21xloQ4Z6e7SNzwpUqUfYWcKW8liEJSr1Ma2fEBYaqiPfvZHwhNikdQpUk&usqp=CAU"
@@ -100,6 +106,22 @@ class Home extends Component {
             <Item title='Jordan 1'
             price='4000'
             image="https://classic.cdn.media.amplience.net/i/hibbett/F5080_1115_right?w=300&h=300&img404=404&v=1"
+           />
+
+           <Item title='Sneakers'
+            price='2250'
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEwG_kyVs4HYobADFwpPABBl4BYN8fyQVgX3P64OyJXb2EyLiXs11y0egsVPgmYemOyR4&usqp=CAU"
+           />
+
+            <Item title='Adivon'
+            price='3500'
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4cp5T4eoXRFTWySDWbAgLBr99PU3FG67lNQ&s"
+            tag='New'
+           />
+
+            <Item title='Rain Coat'
+            price='250'
+            image="https://www.magspremiums.com/wp-content/uploads/2023/07/Disposable-Raincoat.jpeg"
            />
           </div>
         </div>

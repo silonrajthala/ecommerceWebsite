@@ -18,6 +18,16 @@ import Item from '../Item';
             title="Kids Shoes"
             price="700"
           />
+          <Item title='Sneakers'
+            price='2250'
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEwG_kyVs4HYobADFwpPABBl4BYN8fyQVgX3P64OyJXb2EyLiXs11y0egsVPgmYemOyR4&usqp=CAU"
+           />
+
+            <Item title='Adivon'
+            price='3500'
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4cp5T4eoXRFTWySDWbAgLBr99PU3FG67lNQ&s"
+            tag='New'
+           />
     </div>
   )
 }

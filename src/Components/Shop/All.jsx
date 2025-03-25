@@ -85,6 +85,22 @@ import Item from '../Item';
             title="Shirt"
             price="900"
           />
+          <Item title='Sneakers'
+            price='2250'
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEwG_kyVs4HYobADFwpPABBl4BYN8fyQVgX3P64OyJXb2EyLiXs11y0egsVPgmYemOyR4&usqp=CAU"
+           />
+
+            <Item title='Adivon'
+            price='3500'
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4cp5T4eoXRFTWySDWbAgLBr99PU3FG67lNQ&s"
+            tag='New'
+           />
+           <Item
+              title="Down Jacket"
+              price="4500"
+              image="https://makaluetraders.com/wp-content/uploads/2022/10/drak-gray-side-3-1024x1024.jpg"
+              tag="New"
+            />
       
     </div>
   )

@@ -26,6 +26,12 @@ import Item from '../Item';
             title="Scaff"
             price="400"
           />
+          <Item
+              title="Down Jacket"
+              price="4500"
+              image="https://makaluetraders.com/wp-content/uploads/2022/10/drak-gray-side-3-1024x1024.jpg"
+              tag="New"
+            />
     </div>
   )
 }
