@@ -55,7 +55,7 @@ class Home extends Component {
           <h1 className="flex justify-center font-bold text-4xl">
             Featured Product
           </h1>
-          <div className="py-20 grid grid-cols-4 sm:grid-cols-1 gap-4">
+          <div className="grid grid-cols-5 gap-4 sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5">
             <Item
               title="Hoody"
               price="1200"
@@ -92,12 +92,6 @@ class Home extends Component {
               image="https://img.freepik.com/premium-vector/female-fashion-dress-isolated-icon-design_25030-13126.jpg"
               tag="New"
             />
-            <Item
-              title="Down Jacket"
-              price="4500"
-              image="https://makaluetraders.com/wp-content/uploads/2022/10/drak-gray-side-3-1024x1024.jpg"
-              tag="New"
-            />
             <Item title='Jordan'
             price='5000'
             image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvc9DM0mzlA21xloQ4Z6e7SNzwpUqUfYWcKW8liEJSr1Ma2fEBYaqiPfvZHwhNikdQpUk&usqp=CAU"
@@ -117,11 +111,6 @@ class Home extends Component {
             price='3500'
             image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4cp5T4eoXRFTWySDWbAgLBr99PU3FG67lNQ&s"
             tag='New'
-           />
-
-            <Item title='Rain Coat'
-            price='250'
-            image="https://www.magspremiums.com/wp-content/uploads/2023/07/Disposable-Raincoat.jpeg"
            />
           </div>
         </div>

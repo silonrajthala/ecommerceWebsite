@@ -10,6 +10,8 @@ import SignUp from './Components/SignUp';
 import Admin from './Components/Admin';
 import Shop from './Components/Shop';
 import Explore from './Components/Explore';
+import Cart from './Components/Cart';
+import Favorites from './Components/Favorites';
 
 function App() {
   return (
@@ -18,7 +20,7 @@ function App() {
         {/* NavBar ra Offer hide huncha for admin page */}
         {window.location.pathname !== '/admin' && <Offer />}
         {window.location.pathname !== '/admin' && <Navbar />}
-        
+
         <Routes>
           <Route path="/admin" element={<Admin />} />
           <Route path="/" element={<Home />} />
@@ -26,6 +28,8 @@ function App() {
           <Route path="/explore" element={<Explore />} />
           <Route path="/login" element={<LogIn />} />
           <Route path="/signup" element={<SignUp />} />
+          <Route path="/cart" element={<Cart />} />
+          <Route path="/favorites" element={<Favorites />} />
         </Routes>
       </div>
     </Router>
