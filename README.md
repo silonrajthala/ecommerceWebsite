@@ -68,4 +68,4 @@ Project
 
 Fancy Store — Your Style, Your Choice.
 
-A fashion e-commerce platform designed to make online shopping simple, convenient, and enjoyable.
+A fashion e-commerce platform designed to make online shopping simple, convenient, and enjoyable...
